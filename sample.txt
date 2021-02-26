@@ -1,1 +1,1 @@
-this is just a random text file. Trying out git.
+This is just a random text file. Trying out git.
